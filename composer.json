@@ -1,0 +1,20 @@
+{
+    "name": "bysqh/bysqh-tools",
+    "description": "Bysqh - Tools 各种操作类 持续更新 支持composer安装",
+	"keywords": ["Bysqh", "Tools", "操作类", "composer安装"],
+    "license": "MIT",
+	"autoload": {
+        "psr-4": {
+            "bysqh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bysqh",
+            "email": "xcdahaia@gmail.com"
+        }
+    ],
+    "require": {
+      "php": ">=7.4"
+    }
+}
